@@ -27,7 +27,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 # API URL - here
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("30DxNexGenBots71dc22") # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
+API_KEY = getenv("API_KEY", '30DxNexGenBots71dc22') # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_BOTS")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
